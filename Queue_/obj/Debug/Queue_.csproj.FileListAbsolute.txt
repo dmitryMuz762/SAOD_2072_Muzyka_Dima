@@ -1,0 +1,10 @@
+C:\Users\п\source\repos\Queue_\bin\Debug\Queue_.exe.config
+C:\Users\п\source\repos\Queue_\bin\Debug\Queue_.exe
+C:\Users\п\source\repos\Queue_\bin\Debug\Queue_.pdb
+C:\Users\п\source\repos\Queue_\obj\Debug\Queue_.csproj.AssemblyReference.cache
+C:\Users\п\source\repos\Queue_\obj\Debug\Queue_.Form1.resources
+C:\Users\п\source\repos\Queue_\obj\Debug\Queue_.Properties.Resources.resources
+C:\Users\п\source\repos\Queue_\obj\Debug\Queue_.csproj.GenerateResource.cache
+C:\Users\п\source\repos\Queue_\obj\Debug\Queue_.csproj.CoreCompileInputs.cache
+C:\Users\п\source\repos\Queue_\obj\Debug\Queue_.exe
+C:\Users\п\source\repos\Queue_\obj\Debug\Queue_.pdb
