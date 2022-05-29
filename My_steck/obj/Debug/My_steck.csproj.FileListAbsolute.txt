@@ -1,0 +1,10 @@
+C:\Users\п\source\repos\My_steck\bin\Debug\My_steck.exe.config
+C:\Users\п\source\repos\My_steck\bin\Debug\My_steck.exe
+C:\Users\п\source\repos\My_steck\bin\Debug\My_steck.pdb
+C:\Users\п\source\repos\My_steck\obj\Debug\My_steck.csproj.AssemblyReference.cache
+C:\Users\п\source\repos\My_steck\obj\Debug\My_steck.Form1.resources
+C:\Users\п\source\repos\My_steck\obj\Debug\My_steck.Properties.Resources.resources
+C:\Users\п\source\repos\My_steck\obj\Debug\My_steck.csproj.GenerateResource.cache
+C:\Users\п\source\repos\My_steck\obj\Debug\My_steck.csproj.CoreCompileInputs.cache
+C:\Users\п\source\repos\My_steck\obj\Debug\My_steck.exe
+C:\Users\п\source\repos\My_steck\obj\Debug\My_steck.pdb
